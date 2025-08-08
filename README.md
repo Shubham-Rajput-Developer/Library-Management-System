@@ -1,4 +1,3 @@
-.
 
 📚 Library Management System
 A Java-based Library Management System that helps manage books, members, and transactions efficiently. It supports adding, updating, deleting, and searching for books, as well as issuing and returning them with proper record management.
